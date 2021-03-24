@@ -1,5 +1,5 @@
 This is CS50's final project where an education management console system using C was implemented, where the program
-allows doctors to register and add courses and for students to register and and enroll in any of the courses added by the doctors,
+allows doctors to register and add courses and for students to register and enroll in any of the courses added by the doctors,
 as well as the doctors having the option to add assignments for each course, and students having the option to submit solutions to
 those assignments where doctors would be assigning them grades which will be shown to students when accessing their assignments.
 The project is mainly implemented using hash tables, and it consists of 3 main files:
