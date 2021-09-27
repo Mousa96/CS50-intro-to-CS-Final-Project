@@ -4,8 +4,8 @@ as well as the doctors having the option to add assignments for each course, and
 those assignments where doctors would be assigning them grades which will be shown to students when accessing their assignments.
 The project is mainly implemented using hash tables, and it consists of 3 main files:
 1-elements.h, contains all the structs used in the system.
-2-doctors.h, contains all the functions used to implement the doctor part of the system.
-3-students.h, contains all the functions used to implement the doctor part of the system.
+2-doctors.h, contains all the functions used to implement the doctors part of the system.
+3-students.h, contains all the functions used to implement the students part of the system.
 
 All the data is stored in csv files where there are a total of 9 csv files to store the following data:
 1-doctors users
